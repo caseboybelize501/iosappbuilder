@@ -1,0 +1,92 @@
+/*
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+		/* Begin PBXBuildFile section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXBuildFile; fileRef = 1D333333-3333-3333-3333-333333333333; }; /* iosappbuilderApp.swift */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXBuildFile; fileRef = 1D333333-3333-3333-3333-333333333333; }; /* ContentView.swift */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXBuildFile; fileRef = 1D333333-3333-3333-3333-333333333333; }; /* Info.plist */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXBuildFile; fileRef = 1D333333-3333-3333-3333-333333333333; }; /* Assets.xcassets */
+		/* End PBXBuildFile section */
+
+		/* Begin PBXContainerItemProxy section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXContainerItemProxy; containerPortal = 1D333333-3333-3333-3333-333333333333; proxyType = 1; remoteGlobalIDString = 1D333333-3333-3333-3333-333333333333; remoteInfo = iosappbuilder; }; /* iosappbuilder */
+		/* End PBXContainerItemProxy section */
+
+		/* Begin PBXFileReference section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosappbuilderApp.swift; sourceTree = "<group>"; }; /* iosappbuilderApp.swift */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; }; /* ContentView.swift */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; }; /* Info.plist */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; }; /* Assets.xcassets */
+		/* End PBXFileReference section */
+
+		/* Begin PBXGroup section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXGroup; children = (
+			1D333333-3333-3333-3333-333333333333, /* iosappbuilderApp.swift */
+			1D333333-3333-3333-3333-333333333333, /* ContentView.swift */
+			1D333333-3333-3333-3333-333333333333, /* Info.plist */
+			1D333333-3333-3333-3333-333333333333, /* Assets.xcassets */
+		); name = iosappbuilder; sourceTree = "<group>"; }; /* iosappbuilder */
+		/* End PBXGroup section */
+
+		/* Begin PBXNativeTarget section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXNativeTarget; buildConfigurationList = 1D333333-3333-3333-3333-333333333333; buildPhases = (
+			1D333333-3333-3333-3333-333333333333, /* Sources */
+			1D333333-3333-3333-3333-333333333333, /* Frameworks */
+			1D333333-3333-3333-3333-333333333333, /* Resources */
+		); buildRules = (); dependencies = (); name = iosappbuilder; productName = iosappbuilder; projectRoot = ""; sourceTree = "<group>"; }; /* iosappbuilder */
+		/* End PBXNativeTarget section */
+
+		/* Begin PBXProject section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXProject; attributes = { LastUpgradeCheck = 1300; }; buildConfigurationList = 1D333333-3333-3333-3333-333333333333; compatibilityVersion = "Xcode 13.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (
+			en,
+		); mainGroup = 1D333333-3333-3333-3333-333333333333; productRefGroup = 1D333333-3333-3333-3333-333333333333; projectDirPath = ""; projectRoot = ""; targets = (
+			1D333333-3333-3333-3333-333333333333, /* iosappbuilder */
+		); }; /* iosappbuilder */
+		/* End PBXProject section */
+
+		/* Begin PBXSourcesBuildPhase section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+			1D333333-3333-3333-3333-333333333333, /* iosappbuilderApp.swift */
+			1D333333-3333-3333-3333-333333333333, /* ContentView.swift */
+		); runOnlyForDeploymentPostprocessing = 0; }; /* Sources */
+		/* End PBXSourcesBuildPhase section */
+
+		/* Begin PBXVariantGroup section */
+		1D333333-3333-3333-3333-333333333333 = {isa = PBXVariantGroup; children = (
+			1D333333-3333-3333-3333-333333333333, /* Base */
+		); name = Assets.xcassets; sourceTree = "<group>"; }; /* Assets.xcassets */
+		/* End PBXVariantGroup section */
+
+		/* Begin XCBuildConfiguration section */
+		1D333333-3333-3333-3333-333333333333 = {isa = XCBuildConfiguration; buildSettings = { 
+			CODE_SIGN_STYLE = Automatic;
+			DEVELOPMENT_TEAM = "";
+			INFOPLIST_FILE = Info.plist;
+			PRODUCT_NAME = iosappbuilder;
+			TARGETED_DEVICE_FAMILY = "1,2";
+		}; name = Debug; }; /* Debug */
+		1D333333-3333-3333-3333-333333333333 = {isa = XCBuildConfiguration; buildSettings = { 
+			CODE_SIGN_STYLE = Automatic;
+			DEVELOPMENT_TEAM = "";
+			INFOPLIST_FILE = Info.plist;
+			PRODUCT_NAME = iosappbuilder;
+			TARGETED_DEVICE_FAMILY = "1,2";
+		}; name = Release; }; /* Release */
+		/* End XCBuildConfiguration section */
+
+		/* Begin XCConfigurationList section */
+		1D333333-3333-3333-3333-333333333333 = {isa = XCConfigurationList; buildConfigurations = (
+			1D333333-3333-3333-3333-333333333333, /* Debug */
+			1D333333-3333-3333-3333-333333333333, /* Release */
+		); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; }; /* Build configuration list for PBXProject "iosappbuilder" */
+		/* End XCConfigurationList section */
+	};
+	rootObject = 1D333333-3333-3333-3333-333333333333; /* Project object */
+}
+*/
